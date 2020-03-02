@@ -8,5 +8,5 @@ Files of interest are:
 - pages/index.vue
 - pages/products/chairs/_.vue
 
-Goal here is to generate `pages/products/chairs/*` to `dist/products/*. Not possible, hence https://github.com/nuxt/nuxt.js/issues/6996
+Goal here is to generate `pages/products/chairs/*` to `dist/products/*`. Not possible, hence https://github.com/nuxt/nuxt.js/issues/6996
 

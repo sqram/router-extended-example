@@ -2,11 +2,11 @@
   <div>    
     <h2>Chair type: <u>{{ id }}</u></h2>    
 
-    <br>br> 
+    <br><br> 
 
     Desired generated file would be, ie,  `/products/bench/index.html`
     <br> <br>
-    
+
     Instead it's `/products/chairs/bench/index.html`
   </div>
 </template>

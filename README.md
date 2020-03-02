@@ -1,22 +1,12 @@
-# router
+`<router>...</router>` inside `pages/products/chairs/_.vue` causes error on generate.  
+  
+  works fine on non-dynamic routes, ie, `pages/index.vue`
 
-> My splendid Nuxt.js project
+    
+Goal here is to generate `pages/products/chairs/*` to `dist/products/*
+  
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Files of interest are:
+- nuxt.config.js  
+- pages/index.vue
+- pages/products/chairs/_.vue

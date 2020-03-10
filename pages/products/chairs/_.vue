@@ -4,10 +4,10 @@
 
     <br><br> 
 
-    Desired generated file would be, ie,  `/products/bench/index.html`
+    Desired generated file would be, ie,  `dist/products/bench/index.html`
     <br> <br>
 
-    Instead it's `/products/chairs/bench/index.html`
+    Instead it's `dist/products/chairs/bench/index.html`
   </div>
 </template>
 
